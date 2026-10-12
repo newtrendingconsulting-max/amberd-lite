@@ -1,0 +1,34 @@
+NORTHWIND ENTERPRISES INC.
+Procurement Department
+500 Harbor Boulevard, Suite 1200, San Francisco, CA 94105
+
+PURCHASE ORDER
+
+Purchase Order Number: PO-2026-1042
+Order Date: 2026-09-02
+Requested Delivery: 2026-09-20
+Buyer: Dana Whitfield, IT Procurement
+Cost Center: IT-INFRA-2210
+
+Supplier: Acme Technology Solutions
+Supplier Address: 88 Innovation Way, Austin, TX 78701
+Supplier ID: SUP-00318
+
+Currency: USD
+Payment Terms: Net 30
+
+LINE ITEMS
+--------------------------------------------------------------------------
+Line  Item                         Quantity   Unit Price    Line Total
+1     Enterprise SSD Storage       10         $850.00       $8,500.00
+--------------------------------------------------------------------------
+
+Subtotal:   $8,500.00
+Tax:        $0.00 (tax-exempt, certificate on file)
+TOTAL:      $8,500.00 USD
+
+Approved by: Marcus Lee, Director of IT Infrastructure
+Approval Date: 2026-09-02
+
+Terms: Prices are fixed for the duration of this order. Any change in price
+requires a written amendment to this purchase order before invoicing.

@@ -1,0 +1,8 @@
+-- AlterTable
+ALTER TABLE "agent_runs" ALTER COLUMN "definition_snapshot" SET DATA TYPE JSON,
+ALTER COLUMN "extracted" SET DATA TYPE JSON,
+ALTER COLUMN "results" SET DATA TYPE JSON,
+ALTER COLUMN "report" SET DATA TYPE JSON;
+
+-- AlterTable
+ALTER TABLE "agents" ALTER COLUMN "definition" SET DATA TYPE JSON;

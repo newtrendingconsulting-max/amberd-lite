@@ -1,0 +1,30 @@
+ACME TECHNOLOGY SOLUTIONS
+88 Innovation Way, Austin, TX 78701
+billing@acmetech.example | Tax ID 74-5550193
+
+INVOICE
+
+Invoice Number: INV-2026-2087
+Invoice Date: 2026-09-24
+Due Date: 2026-10-24
+Purchase Order Reference: PO-2026-1042
+
+Bill To:
+Northwind Enterprises Inc.
+Accounts Payable
+500 Harbor Boulevard, Suite 1200, San Francisco, CA 94105
+
+Currency: USD
+
+LINE ITEMS
+--------------------------------------------------------------------------
+Line  Description                  Quantity   Unit Price    Amount
+1     Enterprise SSD Storage       10         $920.00       $9,200.00
+--------------------------------------------------------------------------
+
+Subtotal:   $9,200.00
+Tax:        $0.00
+TOTAL DUE:  $9,200.00 USD
+
+Payment instructions: ACH transfer to the account on file.
+Thank you for your business.
